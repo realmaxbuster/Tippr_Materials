@@ -1,0 +1,15 @@
+<resources>
+  <string name="app_name">Tippr</string>
+
+  <string name="bill_amount">Factura ($)</string>
+  <string name="tip_percent_label">La Propina (%)</string>
+
+  <string name="bill_amount_default">0.0</string>
+  <string name="tip_percent_default">15</string>
+
+  <string name="tip_amount_default">La Propina: $0</string>
+  <string name="total_amount_default">Total: $0</string>
+
+  <string name="tip_amount_format">La Propina: $%.2f</string>
+  <string name="total_amount_format">Total: $%.2f</string>
+</resources>
